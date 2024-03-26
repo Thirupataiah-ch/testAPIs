@@ -15,7 +15,7 @@
       "url": "http://netbanking.apisec.ai"
     }
   },
-  "host": "http://172.31.20.189:8080",
+  "host": "http://173.31.20.189:8080",
   "basePath": "/",
   "tags": [
     {
